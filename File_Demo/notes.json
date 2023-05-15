@@ -1,8 +1,1 @@
-[
-  { "title": "To kill a mocking bird", "author": "Harper Lee" },
-  { "title": "The great gatsby", "author": "F. Scott Fitzgerald" },
-  { "title": "The adventures of Huckelberry Finn", "author": "Mark Twain" },
-  { "title": "The Cather in the Rye", "author": "J.D. Salinger" },
-  { "title": "The Grapes of wrath", "author": "Jhon Steinbeck" },
-  { "title": "title1", "author": "author1" }
-]
+[{"title":"To kill a mocking bird","author":"Harper Lee"},{"title":"The great gatsby","author":"F. Scott Fitzgerald"},{"title":"The adventures of Huckelberry Finn","author":"Mark Twain"},{"title":"The Cather in the Rye","author":"J.D. Salinger"},{"title":"The Grapes of wrath","author":"Jhon Steinbeck"}]
